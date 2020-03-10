@@ -1,6 +1,6 @@
 # C_Programming_Language
 
-Projects for CSC 217 in C
+Projects
 
 ### Project 1
 * project1.c
