@@ -1,4 +1,4 @@
-// Reina Eustache
+// Reina Eustache 
 // Project 2: "Inventory Part 1"
 // Due 11/26/18 11:59 pm
 // Item.c
