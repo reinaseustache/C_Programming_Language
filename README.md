@@ -23,6 +23,10 @@ This program processes inventory for a store be reading information such as SKU,
 * Makefile
 * input.txt (sample input)
 * sales.txt (sample salesperson data)
-* sales1.txt (sample salesperson data)
+* sales2.txt (sample salesperson data)
+
+To run:
+> make
+> ./project3 < input.txt sales.txt sales2.txt
 
 This program builds on project 2 but also processing inventory for a store be reading information such as SKU, description and price as they come from standard input and formats each line to store data in the appropriate category. It also processes the sale of an item by taking in a tree containing inventory data and a file pointer for the file to read sales data from for a particular sales person. It manipulates items in the store such as merging the duplicate items received from standard input and printing the final tree will all the items in it.
