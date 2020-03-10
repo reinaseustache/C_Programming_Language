@@ -1,5 +1,4 @@
-// Reina Eustache (N00867316@students.ncc.edu)
-// CSC217 D1
+// Reina Eustache
 // Project 3: "Inventory Part 2"
 // Due 12/19/18 11:59 pm
 // Sales.c
