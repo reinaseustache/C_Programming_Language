@@ -1,5 +1,4 @@
 // Reina Eustache
-// CSC217 D1
 // Project 1: "Vowel Counter"
 // Due 10/17/18 11:59 pm
 // Project1.c
